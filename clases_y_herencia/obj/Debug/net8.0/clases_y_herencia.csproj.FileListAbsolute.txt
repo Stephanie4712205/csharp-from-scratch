@@ -1,0 +1,15 @@
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.AssemblyInfoInputs.cache
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.AssemblyInfo.cs
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.csproj.CoreCompileInputs.cache
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.sourcelink.json
+E:\Proyectos\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.exe
+E:\Proyectos\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.deps.json
+E:\Proyectos\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.runtimeconfig.json
+E:\Proyectos\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.dll
+E:\Proyectos\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.pdb
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.dll
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\refint\clases_y_herencia.dll
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.pdb
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.genruntimeconfig.cache
+E:\Proyectos\new_copy\clases_y_herencia\obj\Debug\net8.0\ref\clases_y_herencia.dll
